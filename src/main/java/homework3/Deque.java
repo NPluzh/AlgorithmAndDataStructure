@@ -14,7 +14,7 @@ public interface Deque<T> {
 
     T peekLeft();
 
-    boolean isEmpty ();
+    boolean isEmpty();
 
     boolean isFull();
 
